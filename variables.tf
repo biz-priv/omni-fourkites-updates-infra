@@ -17,3 +17,13 @@ variable "created_by" {
   type     = string
   nullable = false
 }
+
+variable "application" {
+  type     = string
+  nullable = false
+}
+
+variable "fourkites_url" {
+  type     = string
+  nullable = false
+}
