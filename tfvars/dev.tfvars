@@ -1,0 +1,6 @@
+env                                           = "dev"
+region                                        = "us-east-1"
+aws_account_number                            = "332281781429"
+created_by                                    = "BizCloudExperts"
+application                                   = "omni-fourkites-updates-infra"
+fourkites_url                                 = "https://api.fourkites.com/document-data/upload"
